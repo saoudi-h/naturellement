@@ -13,7 +13,7 @@ Animations et transitions : Utilisation d'animations et de transitions CSS pour 
 ## Installation
 Pour installer le projet, il suffit de cloner le repo :
 bashCopy code
-`git clone https://github.com/saoudi-h/LaSymphonieDesDelices.git`
+`git clone https://github.com/saoudi-h/naturellement.git`
 ## Utilisation
 Ouvrez le fichier `index.html` dans votre navigateur pour accéder au site.
 ## Contributeurs
